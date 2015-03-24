@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  background: #ffffff;
+  font-size: 14px;
+}
+body h1 {
+  font-size: 70px;
+}
+body a {
+  color: blue;
+}
+
+/*# sourceMappingURL=/static/dist/styles/maps/theme.css.map */
